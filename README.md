@@ -5,7 +5,7 @@ Group 119
 
 Team member:
 - Pan, Yen Fu (3035667209)
-- Shen, Yu Jun (3035780568)
+- Shen, Yu Jun (3035951313)
 
 **Portfolio Management Simulation**
 
