@@ -1,11 +1,11 @@
 # ENGG1340Project
 # Portfolio Management Game
 
-Group 162
+Group 119
 
 Team member:
-- Lee, Hong Yuen (3035492317)
-- Lim, Yau Pan (3035780568)
+- Pan, Yen Fu (3035667209)
+- Shen, Yujun (3035951313)
 
 **Portfolio Management Simulation**
 
