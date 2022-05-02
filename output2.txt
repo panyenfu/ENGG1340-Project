@@ -1,0 +1,629 @@
+What is your name? Hi Peter, you are an asset manager. You have to manage a portfolio of 1,000,000 cash.
+There are a fews securities available to you for purchase.
+They have different performance under different situatins.
+Your goal is to increase the value of your client's portfolio as much as possible. 
+__________________________________________________
+Name: Peter
+Round: 0
+
+Your Portfolio: 
+7.                           Cash: 1000000.000000
+
+Total Value of Portfolio: 1000000.000000
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:         29078.750000
+2.                        S&P 500:          4180.170000
+3.               Nikkei 225 Index:         29020.630000
+4.                       FSTE 100:          6938.560000
+5.                           Gold:          1777.200000
+6.       US 10 Year Treasury Bond:            96.062500
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Do you want to pay $1,000 to hire an analyst to explain the news to you (Y/N)? 
+The following is the analysis done by your employee:
+Both property prices and PMI are indicators of the economic condition. Positive figures imply positive economic outlook, vice versa.
+__________________________________________________
+Name: Peter
+Round: 0
+
+Your Portfolio: 
+7.                           Cash: 999000.000000
+
+Total Value of Portfolio: 999000.000000
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:         29078.750000
+2.                        S&P 500:          4180.170000
+3.               Nikkei 225 Index:         29020.630000
+4.                       FSTE 100:          6938.560000
+5.                           Gold:          1777.200000
+6.       US 10 Year Treasury Bond:            96.062500
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+The following is the analysis done by your employee:
+Both property prices and PMI are indicators of the economic condition. Positive figures imply positive economic outlook, vice versa.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your Action: Purchase Securities
+1.                Hang Seng Index      Market Price: 29078.750000
+2.                        S&P 500      Market Price: 4180.170000
+3.               Nikkei 225 Index      Market Price: 29020.630000
+4.                       FSTE 100      Market Price: 6938.560000
+5.                           Gold      Market Price: 1777.200000
+6.       US 10 Year Treasury Bond      Market Price: 96.062500
+Which security do you want to purchase? Input the code
+How many units of S&P 500 do you want to purchase? (Max: 238)
+You have to pay: $83603.400000.
+Deal completed! You have to pay 83603.400000.
+__________________________________________________
+Name: Peter
+Round: 0
+
+Your Portfolio: 
+2.                        S&P 500: 20.000000 unit(s), Value: 83603.400000
+7.                           Cash: 915396.600000
+
+Total Value of Portfolio: 999000.000000
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:         29078.750000
+2.                        S&P 500:          4180.170000
+3.               Nikkei 225 Index:         29020.630000
+4.                       FSTE 100:          6938.560000
+5.                           Gold:          1777.200000
+6.       US 10 Year Treasury Bond:            96.062500
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+The following is the analysis done by your employee:
+Both property prices and PMI are indicators of the economic condition. Positive figures imply positive economic outlook, vice versa.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 1
+
+Your Portfolio: 
+2.                        S&P 500: 20.000000 unit(s), Value: 80259.264000
+7.                           Cash: 915396.600000
+
+Total Value of Portfolio: 995655.864000
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:         26170.875000, Down for 10.00%
+2.                        S&P 500:              4012.96, Down for 4.00%
+3.               Nikkei 225 Index:             27859.80, Down for 4.00%
+4.                       FSTE 100:              6661.02, Down for 4.00%
+5.                           Gold:              1706.11, Down for 4.00%
+6.       US 10 Year Treasury Bond:                92.22, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your portfolio:
+1.           Hang Seng Index: 0.00units ( $0.00 )
+2.                   S&P 500: 20.00units ( $80259.26 )
+3.          Nikkei 225 Index: 0.00units ( $0.00 )
+4.                  FSTE 100: 0.00units ( $0.00 )
+5.                      Gold: 0.00units ( $0.00 )
+6.  US 10 Year Treasury Bond: 0.00units ( $0.00 )
+Which security do you want to sell? Input the code.
+How many units of S&P 500 do you want to sell? (Max: 20.00)
+You earn: $80259.26.
+__________________________________________________
+Name: Peter
+Round: 1
+
+Your Portfolio: 
+7.                           Cash: 995655.86
+
+Total Value of Portfolio: 995655.86
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             26170.88, Down for 10.00%
+2.                        S&P 500:              4012.96, Down for 4.00%
+3.               Nikkei 225 Index:             27859.80, Down for 4.00%
+4.                       FSTE 100:              6661.02, Down for 4.00%
+5.                           Gold:              1706.11, Down for 4.00%
+6.       US 10 Year Treasury Bond:                92.22, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your Action: Purchase Securities
+1.                Hang Seng Index      Market Price: 26170.88
+2.                        S&P 500      Market Price: 4012.96
+3.               Nikkei 225 Index      Market Price: 27859.80
+4.                       FSTE 100      Market Price: 6661.02
+5.                           Gold      Market Price: 1706.11
+6.       US 10 Year Treasury Bond      Market Price: 92.22
+Which security do you want to purchase? Input the code
+How many units of Hang Seng Index do you want to purchase? (Max: 38)
+You have to pay: $261708.75.
+Deal completed! You have to pay 261708.75.
+__________________________________________________
+Name: Peter
+Round: 1
+
+Your Portfolio: 
+1.                Hang Seng Index: 10.00 unit(s), Value: 261708.75
+7.                           Cash: 733947.11
+
+Total Value of Portfolio: 995655.86
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             26170.88, Down for 10.00%
+2.                        S&P 500:              4012.96, Down for 4.00%
+3.               Nikkei 225 Index:             27859.80, Down for 4.00%
+4.                       FSTE 100:              6661.02, Down for 4.00%
+5.                           Gold:              1706.11, Down for 4.00%
+6.       US 10 Year Treasury Bond:                92.22, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 2
+
+Your Portfolio: 
+1.                Hang Seng Index: 10.00 unit(s), Value: 235537.88
+7.                           Cash: 733947.11
+
+Total Value of Portfolio: 969484.99
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             23553.79, Down for 10.00%
+2.                        S&P 500:              3852.44, Down for 4.00%
+3.               Nikkei 225 Index:             26745.41, Down for 4.00%
+4.                       FSTE 100:              6394.58, Down for 4.00%
+5.                           Gold:              1637.87, Down for 4.00%
+6.       US 10 Year Treasury Bond:                88.53, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Do you want to pay $1,000 to hire an analyst to explain the news to you (Y/N)? 
+__________________________________________________
+Name: Peter
+Round: 2
+
+Your Portfolio: 
+1.                Hang Seng Index: 10.00 unit(s), Value: 235537.88
+7.                           Cash: 733947.11
+
+Total Value of Portfolio: 969484.99
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             23553.79, Down for 10.00%
+2.                        S&P 500:              3852.44, Down for 4.00%
+3.               Nikkei 225 Index:             26745.41, Down for 4.00%
+4.                       FSTE 100:              6394.58, Down for 4.00%
+5.                           Gold:              1637.87, Down for 4.00%
+6.       US 10 Year Treasury Bond:                88.53, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your Action: Purchase Securities
+1.                Hang Seng Index      Market Price: 23553.79
+2.                        S&P 500      Market Price: 3852.44
+3.               Nikkei 225 Index      Market Price: 26745.41
+4.                       FSTE 100      Market Price: 6394.58
+5.                           Gold      Market Price: 1637.87
+6.       US 10 Year Treasury Bond      Market Price: 88.53
+Which security do you want to purchase? Input the code
+How many units of Gold do you want to purchase? (Max: 448)
+You have to pay: $163786.75.
+Deal completed! You have to pay 163786.75.
+__________________________________________________
+Name: Peter
+Round: 2
+
+Your Portfolio: 
+1.                Hang Seng Index: 10.00 unit(s), Value: 235537.88
+5.                           Gold: 100.00 unit(s), Value: 163786.75
+7.                           Cash: 570160.36
+
+Total Value of Portfolio: 969484.99
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             23553.79, Down for 10.00%
+2.                        S&P 500:              3852.44, Down for 4.00%
+3.               Nikkei 225 Index:             26745.41, Down for 4.00%
+4.                       FSTE 100:              6394.58, Down for 4.00%
+5.                           Gold:              1637.87, Down for 4.00%
+6.       US 10 Year Treasury Bond:                88.53, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 3
+
+Your Portfolio: 
+1.                Hang Seng Index: 10.00 unit(s), Value: 211984.09
+5.                           Gold: 100.00 unit(s), Value: 157235.28
+7.                           Cash: 570160.36
+
+Total Value of Portfolio: 939379.73
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             21198.41, Down for 10.00%
+2.                        S&P 500:              3698.35, Down for 4.00%
+3.               Nikkei 225 Index:             25675.60, Down for 4.00%
+4.                       FSTE 100:              6138.79, Down for 4.00%
+5.                           Gold:              1572.35, Down for 4.00%
+6.       US 10 Year Treasury Bond:                84.99, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your portfolio:
+1.           Hang Seng Index: 10.00units ( $211984.09 )
+2.                   S&P 500: 0.00units ( $0.00 )
+3.          Nikkei 225 Index: 0.00units ( $0.00 )
+4.                  FSTE 100: 0.00units ( $0.00 )
+5.                      Gold: 100.00units ( $157235.28 )
+6.  US 10 Year Treasury Bond: 0.00units ( $0.00 )
+Which security do you want to sell? Input the code.
+How many units of Hang Seng Index do you want to sell? (Max: 10.00)
+You earn: $211984.09.
+__________________________________________________
+Name: Peter
+Round: 3
+
+Your Portfolio: 
+5.                           Gold: 100.00 unit(s), Value: 157235.28
+7.                           Cash: 782144.45
+
+Total Value of Portfolio: 939379.73
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             21198.41, Down for 10.00%
+2.                        S&P 500:              3698.35, Down for 4.00%
+3.               Nikkei 225 Index:             25675.60, Down for 4.00%
+4.                       FSTE 100:              6138.79, Down for 4.00%
+5.                           Gold:              1572.35, Down for 4.00%
+6.       US 10 Year Treasury Bond:                84.99, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 4
+
+Your Portfolio: 
+5.                           Gold: 100.00 unit(s), Value: 150945.87
+7.                           Cash: 782144.45
+
+Total Value of Portfolio: 933090.32
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             19078.57, Down for 10.00%
+2.                        S&P 500:              3550.41, Down for 4.00%
+3.               Nikkei 225 Index:             24648.57, Down for 4.00%
+4.                       FSTE 100:              5893.24, Down for 4.00%
+5.                           Gold:              1509.46, Down for 4.00%
+6.       US 10 Year Treasury Bond:                81.59, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your portfolio:
+1.           Hang Seng Index: 0.00units ( $0.00 )
+2.                   S&P 500: 0.00units ( $0.00 )
+3.          Nikkei 225 Index: 0.00units ( $0.00 )
+4.                  FSTE 100: 0.00units ( $0.00 )
+5.                      Gold: 100.00units ( $150945.87 )
+6.  US 10 Year Treasury Bond: 0.00units ( $0.00 )
+Which security do you want to sell? Input the code.
+How many units of Gold do you want to sell? (Max: 100.00)
+You earn: $150945.87.
+__________________________________________________
+Name: Peter
+Round: 4
+
+Your Portfolio: 
+7.                           Cash: 933090.32
+
+Total Value of Portfolio: 933090.32
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             19078.57, Down for 10.00%
+2.                        S&P 500:              3550.41, Down for 4.00%
+3.               Nikkei 225 Index:             24648.57, Down for 4.00%
+4.                       FSTE 100:              5893.24, Down for 4.00%
+5.                           Gold:              1509.46, Down for 4.00%
+6.       US 10 Year Treasury Bond:                81.59, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your Action: Purchase Securities
+1.                Hang Seng Index      Market Price: 19078.57
+2.                        S&P 500      Market Price: 3550.41
+3.               Nikkei 225 Index      Market Price: 24648.57
+4.                       FSTE 100      Market Price: 5893.24
+5.                           Gold      Market Price: 1509.46
+6.       US 10 Year Treasury Bond      Market Price: 81.59
+Which security do you want to purchase? Input the code
+How many units of Nikkei 225 Index do you want to purchase? (Max: 37)
+You have to pay: $369728.58.
+Deal completed! You have to pay 369728.58.
+__________________________________________________
+Name: Peter
+Round: 4
+
+Your Portfolio: 
+3.               Nikkei 225 Index: 15.00 unit(s), Value: 369728.58
+7.                           Cash: 563361.74
+
+Total Value of Portfolio: 933090.32
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             19078.57, Down for 10.00%
+2.                        S&P 500:              3550.41, Down for 4.00%
+3.               Nikkei 225 Index:             24648.57, Down for 4.00%
+4.                       FSTE 100:              5893.24, Down for 4.00%
+5.                           Gold:              1509.46, Down for 4.00%
+6.       US 10 Year Treasury Bond:                81.59, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 5
+
+Your Portfolio: 
+3.               Nikkei 225 Index: 15.00 unit(s), Value: 354939.44
+7.                           Cash: 563361.74
+
+Total Value of Portfolio: 918301.18
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             17170.71, Down for 10.00%
+2.                        S&P 500:              3408.40, Down for 4.00%
+3.               Nikkei 225 Index:             23662.63, Down for 4.00%
+4.                       FSTE 100:              5657.51, Down for 4.00%
+5.                           Gold:              1449.08, Down for 4.00%
+6.       US 10 Year Treasury Bond:                78.33, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 6
+
+Your Portfolio: 
+3.               Nikkei 225 Index: 15.00 unit(s), Value: 340741.86
+7.                           Cash: 563361.74
+
+Total Value of Portfolio: 904103.60
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             15453.64, Down for 10.00%
+2.                        S&P 500:              3272.06, Down for 4.00%
+3.               Nikkei 225 Index:             22716.12, Down for 4.00%
+4.                       FSTE 100:              5431.21, Down for 4.00%
+5.                           Gold:              1391.12, Down for 4.00%
+6.       US 10 Year Treasury Bond:                75.19, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+__________________________________________________
+Name: Peter
+Round: 7
+
+Your Portfolio: 
+3.               Nikkei 225 Index: 15.00 unit(s), Value: 327112.19
+7.                           Cash: 563361.74
+
+Total Value of Portfolio: 890473.92
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             13908.28, Down for 10.00%
+2.                        S&P 500:              3141.18, Down for 4.00%
+3.               Nikkei 225 Index:             21807.48, Down for 4.00%
+4.                       FSTE 100:              5213.96, Down for 4.00%
+5.                           Gold:              1335.47, Down for 4.00%
+6.       US 10 Year Treasury Bond:                72.19, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+Your portfolio:
+1.           Hang Seng Index: 0.00units ( $0.00 )
+2.                   S&P 500: 0.00units ( $0.00 )
+3.          Nikkei 225 Index: 15.00units ( $327112.19 )
+4.                  FSTE 100: 0.00units ( $0.00 )
+5.                      Gold: 0.00units ( $0.00 )
+6.  US 10 Year Treasury Bond: 0.00units ( $0.00 )
+Which security do you want to sell? Input the code.
+How many units of Nikkei 225 Index do you want to sell? (Max: 15.00)
+You earn: $327112.19.
+__________________________________________________
+Name: Peter
+Round: 7
+
+Your Portfolio: 
+7.                           Cash: 890473.92
+
+Total Value of Portfolio: 890473.92
+
+
+Securities Available for Purchase:
+1.                Hang Seng Index:             13908.28, Down for 10.00%
+2.                        S&P 500:              3141.18, Down for 4.00%
+3.               Nikkei 225 Index:             21807.48, Down for 4.00%
+4.                       FSTE 100:              5213.96, Down for 4.00%
+5.                           Gold:              1335.47, Down for 4.00%
+6.       US 10 Year Treasury Bond:                72.19, Down for 4.00%
+
+Latest News:
+Both Hong Kong's lived-in home prices and Purchasing Managers' Index (PMI) have recorded decreases for the 3rd consecutive month.
+
+You can:
+1. Hire an analyst (which costs you $1,000) to analyse and explain the news to you.
+2. Buy securities.
+3. Sell securities.
+4. End this round.
+
+Input your action (1/2/3/4):
+
+You have finished this game.
+The current value of your portfolio is 890473.92
+Rank                Name               Asset
+1.          Warren Buffett          5324000.00
+2.            George Soros          3210400.00
+3.             Peter Thiel          2304200.90
+4.                       4          1000000.00
+5.                       4          1000000.00
+6.             Anthony Tam           962457.22
+7.           Tillman Hayes           894326.01
+8.                  Peter           890473.92
+9.            Peter Crouch           672304.70
+10.           Andre Jimenez           579021.89
